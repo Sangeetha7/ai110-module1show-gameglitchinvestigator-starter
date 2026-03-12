@@ -64,7 +64,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
 - How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
 
-      In Streamlit, almost every interaction reruns the whole script from top to bottom. If you use normal variables, they reset on each rerun. Session state is the place where values are remembered across reruns, like secret, score, and attempts. So session state acts like memory for your app while users click buttons and type guesses.
+  In Streamlit, almost every interaction reruns the whole script from top to bottom. If you use normal variables, they reset on each rerun. Session state is the place where values are remembered across reruns, like secret, score, and attempts. So session state acts like memory for your app while users click buttons and type guesses
 
 
 - What change did you make that finally gave the game a stable secret number?
