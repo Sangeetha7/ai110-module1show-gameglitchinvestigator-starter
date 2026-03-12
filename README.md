@@ -39,8 +39,8 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📸 Demo
 
-- ![Screenshot from browser](images\browser.png)
-- ![pytest screenshot](images\pytest.png)
+- ![Screenshot from browser](images/browser.png)
+- ![pytest screenshot](images/pytest.png)
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
