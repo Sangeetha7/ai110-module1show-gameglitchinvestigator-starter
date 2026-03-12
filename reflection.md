@@ -80,8 +80,9 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
 - What is one thing you would do differently next time you work with AI on a coding task?
 
-  * Trying fixing one bug at a time before fixing another
+  * Try fixing one bug at a time before fixing another
   * I would also ask for test cases immediately after each fix, not at the end
+  * Be clear on the folder structure before starting commits. Keep the folder structure simple.
 
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
 
